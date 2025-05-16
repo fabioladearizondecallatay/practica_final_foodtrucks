@@ -13,13 +13,21 @@ Demostrar el uso práctico de conceptos de **concurrencia, paralelismo y sincron
 ## Estructura del proyecto
 
 foodtruck/
+
 ├── cliente.py # Proceso generador de clientes
+
 ├── food_truck.py # Lógica concurrente de cada food truck
+
 ├── cocina.py # Recetas y control de stock
+
 ├── interfaz.py # Interfaz gráfica con Tkinter
+
 ├── main.py # Orquestador principal del sistema
+
 ├── shared.py # Menús y datos comunes
+
 ├── ingredientes.json # Stock inicial de ingredientes
+
 └── nombres_clientes.txt # Lista de nombres aleatorios
 
 ---
