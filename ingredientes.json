@@ -1,0 +1,57 @@
+{
+    "stock": {
+      "pan": 20,
+      "queso": 30,
+      "carne": 25,
+      "bacon": 15,
+      "trufa": 5,
+      "lechuga": 20,
+      "tomate": 20,
+      "masa": 15,
+      "mozzarella": 25,
+      "pepperoni": 15,
+      "quesos variados": 20,
+      "huevo": 15,
+      "patata": 20,
+      "jamón": 12,
+      "arroz": 15,
+      "marisco": 10,
+      "alga nori": 8,
+      "salmón": 12,
+      "dumplings": 10,
+      "vino": 12,
+      "champagne": 6,
+      "queso francés": 10,
+      "tortilla": 12,
+      "nachos": 10,
+      "queso fundido": 10,
+      "pollo": 10
+    },
+  
+    "recetas": {
+      "Bacon Cheeseburger": {"pan": 1, "carne": 1, "queso": 1, "bacon": 1},
+      "Truffle Burger": {"pan": 1, "carne": 1, "queso": 1, "trufa": 1},
+      "BBQ Burger": {"pan": 1, "carne": 1, "queso": 1, "tomate": 1},
+  
+      "Margherita": {"masa": 1, "mozzarella": 2},
+      "Pepperoni": {"masa": 1, "mozzarella": 1, "pepperoni": 2},
+      "4 Quesos": {"masa": 1, "quesos variados": 2},
+  
+      "Pincho de tortilla": {"huevo": 1, "patata": 1},
+      "Croquetas de jamon": {"jamón": 1, "huevo": 1},
+      "Paella": {"arroz": 1, "marisco": 1},
+  
+      "Ramen": {"arroz": 1, "pollo": 1},
+      "Sushi": {"arroz": 1, "alga nori": 1, "salmón": 1},
+      "Gyozas": {"dumplings": 2},
+  
+      "Vino tinto": {"vino": 1},
+      "Quesos": {"queso francés": 1},
+      "Champagne": {"champagne": 1},
+  
+      "Tacos": {"tortilla": 2, "pollo": 1},
+      "Nachos": {"nachos": 1, "queso fundido": 1},
+      "Quesadillas": {"tortilla": 2, "queso fundido": 1}
+    }
+  }
+  
